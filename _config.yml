@@ -9,19 +9,19 @@
 
 # 1. Files excluded from Jekyll builds
 exclude:
-- README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- screenshot.png
-- LICENSE
-- CNAME
-- Gemfile
-- Gemfile.lock
-- garth-jekyll-theme.gemspec
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - screenshot.png
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - garth-jekyll-theme.gemspec
 
 # 2. Installed Gems
 plugins:
-- jekyll-paginate
+  - jekyll-paginate
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -30,27 +30,25 @@ paginate_path: page:num # jekyll-paginate > blog page
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+permalink: pretty # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: Activation Point # Needed for Siteleaf
     output: true
-    description: "This is merely a demo, find out more [about Garth](about)" # The post list page content
+    description: "Learn with me how to build data-driven products." # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: pages
     values:
       layout: page # Default layout
-  -
-    scope:
+  - scope:
       path: ""
       type: posts
     values:
