@@ -8,7 +8,7 @@ categories:
   - Correlation
 ---
 
-<img src="{{ site.baseurl }}/assets/images/word2vecillustration.png" alt="word2vec" class="right">
+<img src="{{ site.baseurl }}/assets/images/word2vecillustration.png" alt="" class="right">
 
 In this project, I collaborated with Axon-Vision to create deep neural networks introduction for Axon's Deep Learning course. We chose Word2Vec as an application to motivate learning.
 
