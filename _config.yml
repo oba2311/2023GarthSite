@@ -39,7 +39,9 @@ collections:
   posts:
     title: Activation Point # Needed for Siteleaf
     output: true
-    description: "Anecdotes about my experience building data-driven products." # The post list page content
+    description: "Anecdotes about my experience building data-driven products.
+     
+      " # The post list page content
 
 # 6. Jekyll collections settings
 defaults:

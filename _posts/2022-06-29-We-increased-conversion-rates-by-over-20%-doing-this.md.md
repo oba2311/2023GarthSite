@@ -5,16 +5,14 @@ date: 2022-06-29
 categories: [product, Growth, Consumer]
 ---
 
-#### KEY TIPS AND TRICKS TO GROWTH-HACK SAAS ONBOARDING
+##### KEY TIPS AND TRICKS TO GROWTH-HACK SAAS ONBOARDING
 
-Everything you need to know to drastically improve your SaaS onboarding completion rates.
-
+Everything you need to know to drastically improve your SaaS onboarding completion rates.  
 (Published on Medium/Bootcamp - https://medium.com/p/f596d8a23f79)
-
 
 <img src="{{ site.baseurl }}/assets/images/onboardingGloat1.png" alt="onboardingGloat1" class="right" width="60%" height="60%">
 
-#### Increase completion rates focusing on the following aspects
+##### Increase completion rates focusing on the following aspects
 
 It is the end of 2021 and I’m leading the Growth Team for a B2B2E company (E=employees) in HRTech SaaS. We are deciding to tackle a well-known growth challenge — improving the product’s onboarding.
 
@@ -39,7 +37,7 @@ The underlying assumptions we worked with were:
     - We want our users to be activated, and our clients want to get to know their employees better. These two goals aren’t the same, there is a clear tradeoff to manage.
 - Our design is constrained by our business’s strong selling points, and what sales had sold in the demo. This is not uncommon for B2B / B2B2E / B2B2C companies.
 
-#### Iterate to find the perfect copy, make it configurable, and implement autosuggestions
+##### Iterate to find the perfect copy, make it configurable, and implement autosuggestions
 
 Here’s what worked for us:
 
@@ -59,7 +57,7 @@ Here’s what worked for us:
 - Result: We ended up cutting more than 30% of the original data inputs we’d had.
 
 
-#### Copy and Localization
+##### Copy and Localization
 
 You’d be surprised how far copy will go. Since the onboarding is the first handshake a user would have with the product, it is all the more important to check whether your copy is in-line with best practices:
 
@@ -73,7 +71,7 @@ You’d be surprised how far copy will go. Since the onboarding is the first han
 
 To learn more: [https://www.omerbenami.com/](https://www.omerbenami.com/)
 
-#### Configurability and Optimization
+##### Configurability and Optimization
 
 When we wanted to A/B-test the old version for the onboarding we couldn’t since many things were hard-coded. This time we planned to build everything configurable such that we can test pretty much whatever we want going forward. This is a great piece about testing challenges you might want to check.
 
@@ -87,7 +85,7 @@ When we wanted to A/B-test the old version for the onboarding we couldn’t sinc
 
 Consult this outstanding article for cases where testing is not possible.
 
-#### Friction Minimization with autosuggestions
+##### Friction Minimization with autosuggestions
 
 A handy rule of thumb: The more demanding a data field is to fill in, the easier the fill-in pattern should be. We noticed that autocomplete works like magic. And it works for others as well.
 
@@ -97,7 +95,7 @@ A handy rule of thumb: The more demanding a data field is to fill in, the easier
 
 Declutter UI, design around predefined KPIs, and always be testing!
 
-#### Data and measurement
+##### Data and measurement
 
 This might sound obvious, but bear with me and you’d be surprised.
 
@@ -114,7 +112,7 @@ If this kind of content interests you, read more here, and follow me on Medium. 
 To learn more: [https://www.omerbenami.com/](https://www.omerbenami.com/)
 
 ---
-#### Good resources on onboarding and activation:
+##### Good resources on onboarding and activation:
 
 - Improve activation with those tips: [https://userpilot.com/blog/improve-user-activation/](https://userpilot.com/blog/improve-user-activation/)
 - Onboarding best practices: [https://userpilot.com/blog/user-onboarding-best-practices/](https://userpilot.com/blog/user-onboarding-best-practices/)
