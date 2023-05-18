@@ -5,8 +5,8 @@ categories:
   - Scraping
   - Correlation
 ---
-
-<iframe src="https://prezi.com/p/embed/BCfhJJiwRtwKsvBtmtQ3/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" ></iframe>
+<br>
+<iframe src="https://prezi.com/p/embed/BCfhJJiwRtwKsvBtmtQ3/" id="iframe_container" frameborder="10" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" ></iframe>
 
 This past summer I was lucky to work for Gartner, at their innovation center in Tel-Aviv, Israel (called "GICI"). I worked as a datascientist on three different projects: one was a BI-style project, one was on a recommendation system, and one focused on ways to leverage big-data.
 
