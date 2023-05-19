@@ -10,8 +10,6 @@ categories: [product, Growth, Consumer]
 Everything you need to know to drastically improve your SaaS onboarding completion rates.  
 (Published on Medium/Bootcamp - https://medium.com/p/f596d8a23f79)
 
-<img src="{{ site.baseurl }}/assets/images/onboardingGloat1.png" alt="onboardingGloat1" class="right" width="60%" height="60%">
-
 ##### Increase completion rates focusing on the following aspects
 
 It is the end of 2021 and I’m leading the Growth Team for a B2B2E company (E=employees) in HRTech SaaS. We are deciding to tackle a well-known growth challenge — improving the product’s onboarding.
@@ -121,4 +119,7 @@ To learn more: [https://www.omerbenami.com/](https://www.omerbenami.com/)
 - Great AB testing intro: [https://medium.com/swlh/what-every-product-manager-should-know-about-ab-testing-7e7619fe4533](https://medium.com/swlh/what-every-product-manager-should-know-about-ab-testing-7e7619fe4533)
 
 Tags: UX Design, Product Management, Conversion Optimization, SaaS, Growth Hacking
+
+<img src="{{ site.baseurl }}/assets/images/onboardingGloat1.png" alt="onboardingGloat1" class="right" width="60%" height="60%">
+
 
