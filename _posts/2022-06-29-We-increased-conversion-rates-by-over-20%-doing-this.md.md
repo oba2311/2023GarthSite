@@ -7,8 +7,9 @@ categories: [product, Growth, Consumer]
 
 ##### KEY TIPS AND TRICKS TO GROWTH-HACK SAAS ONBOARDING
 
-Everything you need to know to drastically improve your SaaS onboarding completion rates.  
-(Published on Medium/Bootcamp - https://medium.com/p/f596d8a23f79)
+Everything you need to know to drastically improve your SaaS onboarding completion rates.
+
+<img src="{{ site.baseurl }}/assets/images/onboardingGloat1.png" alt="onboardingGloat1" class="right" width="60%" height="60%">
 
 ##### Increase completion rates focusing on the following aspects
 
@@ -120,6 +121,6 @@ To learn more: [https://www.omerbenami.com/](https://www.omerbenami.com/)
 
 Tags: UX Design, Product Management, Conversion Optimization, SaaS, Growth Hacking
 
-<img src="{{ site.baseurl }}/assets/images/onboardingGloat1.png" alt="onboardingGloat1" class="right" width="60%" height="60%">
 
 
+(Published on Medium/Bootcamp - https://medium.com/p/f596d8a23f79)
