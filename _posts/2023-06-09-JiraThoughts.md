@@ -11,7 +11,7 @@ But that's actually wrong and I'll prove you why.
 
 <img src="{{ site.baseurl }}/assets/images/jira-michael-scott.gif" alt="michael scott loves Jira" class="right" width="80%" height="80%">
 
-**The Jira-only product org:**  
+**The Jira-only product org**  
 Some product organizations make the mistake of skipping one of the most crucial parts of a good PM process - developing a strong product thesis. Instead, they jump straight into implementation without fully understanding the “why”.  
 This is a bad practice. No ticket should be written before the product manager has convinced their team of the importance and relevance of the task at hand - WHY THIS, WHY NOW.
 
