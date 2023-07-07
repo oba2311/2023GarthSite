@@ -60,10 +60,10 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Omer BenA mi Consulting - data-driven insights for SaaS and consumer startups" # Site name or title
+title: "Omer Ben Ami Consulting - ddata-driven product management"
 logo: "/assets/websiteLogo.png" # Site logo
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
-description: "Omer Ben Ami's personal consulting website" # Site description and default description
+description: "Omer Ben Ami's consulting website - data-driven product management" # Site description and default description
 url: "https://www.omerbenami.com" # Site url
 baseurl: ""
 lang: en-GB
