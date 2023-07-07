@@ -44,6 +44,7 @@ collections:
      
       " # The post list page content
 
+
 # 6. Jekyll collections settings
 defaults:
   - scope:
@@ -66,3 +67,16 @@ description: "Omer Ben Ami's personal consulting website" # Site description and
 url: "https://www.omerbenami.com" # Site url
 baseurl: ""
 lang: en-GB
+# more data for SEO and social preview (OpenGraph):
+tagline: Anecdotes about my experience building data-driven products.
+description: "Omer Ben Ami's personal consulting website."
+twitter:
+  username: omer_ben_ami
+  card: summary
+
+social:
+  name: Omer Ben-Ami
+  links:
+    - https://twitter.com/Omer_ben_ami
+    - https://www.youtube.com/channel/UCRRVYwJ-qt_5FbFVRId7BEg
+
